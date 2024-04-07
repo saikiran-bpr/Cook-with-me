@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="home-page">
+        <nav> 
+            <img src="Screenshot 2024-04-06 at 11.21.00 PM.png" alt="logo">
+            <div class="navigation">
+                <div class="nav-text" id="home">
+                    <i class="fa-solid fa-house"></i>
+                    <p>Home</p>
+                </div>
+                <div class="nav-text" id="recipies">
+                    <i class="fa-solid fa-bowl-food"></i>
+                    <p>Recipes</p>
+                </div>
+                <div class="nav-text" id="favourites">
+                    <i class="fa-solid fa-heart"></i>
+                    <p>Favourites</p>
+                </div>
+                <div class="nav-text" id="settings">
+                    <i class="fa-solid fa-gear"></i>
+                    <p>Settings</p>
+                </div>
+            </div>
+            <button id="membership">Get Membership</button>
+        </nav>
+        <div class="right-home-page">
+            <div class="navbar">
+                <div class="search-box">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" placeholder="What do you want to cook today?">
+                </div>
+                <button class="filterbtn">Filter</button>
+                <div class="profile">
+                    <i class="fa-regular fa-user"></i>
+                    <p>Jadugars</p>
+                </div>
+            </div>
+            <div class="sample-card" id="example">
+                <div>
+                    <img src="Screenshot 2024-04-07 at 7.45.01 AM.png" alt="Food Image">
+
+                </div>
+                <div class="name-and-ratings">
+                    <p class="name">Name of Food</p>
+                    <div>
+                        <i class="fa-solid fa-star"></i>
+                        <p class="rating">3.8</p>
+                    </div>
+                </div>
+                <div class="text">
+                    <div class="time-and-servings">
+                        <div class="time">
+                            <i class="fa-regular fa-clock"></i>
+                            <p>30 Mins</p>
+                        </div>
+                        <p>Servings : 4 people</p>
+                    </div>
+                    <div class="favourites-and-indicators">
+                        <i class="fa-regular fa-heart"></i>
+                        <br>
+                        <i class="fa-solid fa-circle"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="recommended-recipies">
+                <h2>Recommended Recipes</h2>
+                <div class="recipes-in-recommende-recipes">
+              
+
+                </div>
+                
+            </div>
+            <div class="trending-recipies">
+                <h2>Trending Recipes</h2>
+                <div class="recipes-in-trending-recipes">
+
+
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    <div class="recipe-details remove">
+        <button class="back-1">Back</button>
+        <div class="center-area">
+
+            <div class="ingredients-and-preprations">
+                <h1>Ingredients</h1>
+                <div class="listof-ingredients">
+                    <ul>
+                        <li>3 tablespoon ghee</li>
+                        <li>4 sliced onion</li>
+                        <li>6 medium tomato cut in 8 pieces</li>
+                        <li>Curd</li>
+                        <li>Cashew Nuts</li>
+                        <li>Red chillies</li>
+                        <li>750g Paneer</li>
+                        <li>Spices: coriander powder, 1/2 tbsp turmeric powder, degi red chilli powder, 2 green cardamom, 1 bay leaf, 3 cloves</li>
+                        <li>1 inch ginger chopped</li>
+                        <li>garlic paste</li>
+                        <li>required salt</li>
+                        <li>Kewra water</li>
+                        <li>1 tbsp dried fenugreek leaves</li>
+                        <li>Butter</li>
+                    </ul>
+                </div>
+                <h1>Pre-Preparation</h1>
+                <div class="prep">
+                    <h4>Process for soaking Paneer</h4>
+                    <p style="margin-left: 10px;">In a bowl add paneer and soak it in warm salted water and keep aside for further use.</p>
+                    <h4>Process for making curd mixture</h4>
+                    <p style="margin-left: 10px;">In a bowl add degi red-chilli powder, coriander powder, turmeric powder, curd, 2 slices of butter and mix everything properly and keep it aside for further use. </p>
+                </div>
+            </div>
+            <div class="dish-card">
+                <div class="img-and-name">
+                    <img src="Screenshot 2024-04-07 at 6.38.21 AM.png" alt="img">
+                    <h2>Paneer Butter Masala</h2>
+                </div>
+                <div class="details">
+                    <p>Preparation Time: 10mins</p>
+                    <p>Cooking-Time: 37 mins</p>
+                    <p>Servings: 4 peoples</p>
+                    <p>Vegetarian</p>
+                    <p class="nutri">Nutrients</p>
+                </div>
+                <button class="start-cooking-btn">Start Cooking</button>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="process remove">
+        <button class="back-2">Back</button>
+        <div class="current-dish">
+            <h1>Paneer Butter Masala</h1>
+            <div class="total-time">
+                <p>Total Time</p>
+                <div></div>
+            </div>
+        </div>
+        <div class="steps">
+            <div class="top"></div>
+            <div class="middle">
+                <div class="current-step"></div>
+                <p class="time-remaining"></p>
+            </div>
+            <div class="bottom"></div>
+        </div>
+        <div class="progress">
+            <button class="pause-btn">pause</button>
+            <!-- <div class="progress-bar"></div> -->
+            <button class="next-btn">Next</button>
+        </div>
+    </div>
+    <script src="home.js"></script>
+</body>
+</html>

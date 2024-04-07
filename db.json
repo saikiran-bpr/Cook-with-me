@@ -1,0 +1,38 @@
+{
+   "title": "Paneer Butter Masala",
+   "nutrient": {
+     "calories": "201 per serving",
+     "fat": "16g",
+     "protein": "8.2g",
+     "cholesterol": "41mg"
+   },
+   "prepTime": "15 minutes",
+   "cookTime": "40 minutes",
+   "servings": 4,
+   "ingredients": {
+     "For Gravy": "3 tbsp Ghee , 1 Bay leaf , 2 Green cardamom , 3 Cloves , 1 inch Ginger, chopped , 3 cloves Garlic crushed paste, 1 fresh Green chilli, cut in half , 2 medium Onions, sliced , Curd Mixture , 2 Dry Kashmiri red chillies deseeded , 18 Cashew nuts , 6 medium Tomatoes cut in 8 pieces , Salt to taste , half tsp Degi red chilli powder , 1 and half cup Water , 2-3 drops Kewra water",
+     "For Curd Mixture": "1 heaped tsp Degi red chilli powder ,1 heaped tsp Coriander powder , one-fourth tsp Turmeric powder , 3 tbsp Curd , 3 small cubes Butter ,",
+     "For Soaking Paneer": "200 gm Paneer, cubes , Warm salted water",
+     "For Onion Tomato Masala": "4 tbsp Butter ,1 medium Onion chopped ,half tsp Degi red chilli powder ,1 medium Tomato, chopped",
+     "Other Ingredients Prepared Gravy": "1-2 tbsp Honey , 2 tbsp Butter , 1 tbsp Dried Fenugreek leaves , soaked Paneer",
+     "For Garnish": "Fresh Curd , Fresh Coriander leaves"
+   },
+   "preparation":
+     "In a bowl add paneer and soak it in some warm salted water and keep aside for further use. In a bowl add degi red chilli powder, coriander powder, turmeric powder, curd, butter and mix everything properly and keep aside for further use.",
+   "Recipe": {
+     "00:00": "Turn on the flame and put the kadai in simmer for a minute.",
+     "01:00": "Now that the kadai is heated, add 3 table-spoon ghee ,1 bay leaf, 2 green cardamom, 3 chopped clove-garlic,1inch ginger, green chilli, onion and saute them until translucent, which will take around 2-2.5 minutes. You can put the flame on higher mode than simmer.",
+     "03:30": "Now add the already prepared curd mixture, 2 dry kashmiri red chilli for its smokiness and continue cooking for 2-3 minutes or until it's fragrant.",
+     "06:00": "Now that you can smell the fragrance add the whole 18 cashew nuts, freshly cut tomatoes, salt, 1/2 spoon degi red chilli powder into it and saute for 2 minutes on medium high heat.",
+     "08:00": "Add 1 and half cup Water till the tomatoes are sub-merged, then cover the gravy and cook for 12-15 minutes or until the tomatoes are soft and mushy. You can mash the tomatoes in between.",
+     "20:00": "Now that our tomatoes are mushy and soft, we can finish it with 2-3 drops of Kewra water and switch off the flames and let our gravy cool down for 2-3 mins.",
+     "23:00": "Then we remove all the whole spices from our gravy as it may turn our gravy black. And grind it into a fine paste with a hand blender or mixture grinder, which will take around 4-5 mins of our time. If you feel the gravy is too thick you can add less than half cup of water but not more.",
+     "28:00": "Now for our last task, we take the same kadai turn on the flame and put the kadai in medium high heat for a minute.",
+     "29:00": "Once it's heated, we add 3-4 cube of butter ,1 medium onion cut in small slices, degi red chilli powder and saute it until it becomes translucent for around a minute.",
+     "30:00": "Then we add 1 medium chopped tomato and cook it until it becomes soft .",
+     "31:00": "Now we pour the prepared gravy along with a scoop of butter and 1 to 2 table spoon of honey and bring it to a boil for a minute.",
+     "32:00": "Add the soaked paneer without water and boil it for 4-5 minutes on medium heat and bring it to a boil.",
+     "37:00": "Lastly garnish it with crushed dry fenugreek leaves and mix everything properly. Its time to switch off the flame and thats how we've made our delicious Paneer Butter Masala ."
+   },
+   "end message": "Hopefully you have enjoyed my service, I have enjoyed your company a lot. Do enjoy your delicious meal and your feedback means a lot to me. Thankyou"
+}
